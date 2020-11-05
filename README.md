@@ -1,2 +1,2 @@
-# AD
+
 BLINK COUNT
